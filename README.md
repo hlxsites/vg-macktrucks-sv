@@ -1,5 +1,5 @@
 # Mack Trucks
-Franklin site redesign for macktrucks.com
+Franklin site redesign for sv.macktrucks.com
 
 ## Environments
 - Preview: https://main--vg-macktrucks-sv--hlxsites.hlx.page/
